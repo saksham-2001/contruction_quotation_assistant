@@ -1,6 +1,6 @@
 # Construction-Quotation-Assistant
-Version 1.0 27/03/2015
-This is my univeristy project which i completed during the part of my course. The main purpose of this project is to demenstrate J-unit testing.
+
+This is my univeristy project which i completed during the part of my course. The main purpose of this project is to demenstrate J-unit testing both(black-box and white-box).
 
 
 
